@@ -21,5 +21,9 @@
 
 
 
+### 🐍Python eating other languages, as always
+![snake gif](https://github.com/gcespedes8/gcespedes8/blob/output/github-contribution-grid-snake.svg)
+
+
 ### ⚡️ Recent GitHub Activity
  <a href="https://github.com/gcespedes8"><img alt="Gonzalo Cespedes Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gcespedes8&theme=react-dark" /></a>
